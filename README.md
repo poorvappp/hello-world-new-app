@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Hello World App</title>
+  <title>Welcome to Poorva's trial App</title>
   <meta name="description" content="A simple Hello World static web app for Azure deployment." />
   <meta property="og:title" content="Hello World App" />
   <meta property="og:description" content="Welcome to my first Azure Static Web App!" />
